@@ -1,2 +1,3 @@
 # My-Personal-Hub
-Author- Mohaisn Raza
+A personal hub for my projects,learning and experiments.
+Author- Mohasin Raza
